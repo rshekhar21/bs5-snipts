@@ -1,2 +1,2 @@
-# bs5-snipts
+# Bootstrap 5 -> snipts
 bootstrap 5 quick snipts for loign, form , navbar 
